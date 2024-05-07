@@ -1,0 +1,7 @@
+  cin >> operation;
+
+  cout << "Введите второе число: ";
+  cin >> num2;
+
+  switch (operation) {
+    case '+':
